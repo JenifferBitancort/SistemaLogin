@@ -1,0 +1,12 @@
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\bin\Debug\17 - Sistema de Login.exe.config
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\bin\Debug\17 - Sistema de Login.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\bin\Debug\17 - Sistema de Login.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\_17___Sistema_de_Login.Form1.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\_17___Sistema_de_Login.FormLogin.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\_17___Sistema_de_Login.Properties.Resources.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\Sistema de Login.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\17 - Sistema de Login.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\Sistema de Login\Sistema de Login\obj\Debug\17 - Sistema de Login.pdb
