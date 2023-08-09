@@ -12,6 +12,7 @@ No projeto foi definido 3 usuários no código, este podendo ser aprimorado para
 - João, Senha: 0205
 - Maria, Senha: 1508
   
+Se o usuário ou senha estiver incorreta o acesso é negado.
 
 https://github.com/JenifferBitancort/SistemaLogin/assets/137184265/413ea0d1-adc7-45de-96f0-48be11b90a32
 
